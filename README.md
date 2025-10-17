@@ -23,7 +23,7 @@ Um jogo 2D desenvolvido em **Python** com **Pygame**, onde você controla um ca�
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/JOGO-IP.git
+   git clone https://github.com/matnrocha/PythonGame_MakeThroughSewage.git
    cd JOGO-IP
    ```
 
