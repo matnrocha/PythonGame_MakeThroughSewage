@@ -60,8 +60,6 @@ Um jogo 2D desenvolvido em **Python** com **Pygame**, onde você controla um ca�
 O jogador assume o papel de um **caçador de ratos** em um mundo cheio de armadilhas.
 A cada fase, o desafio aumenta, exigindo reflexos rápidos e estratégia para alcançar o fim de cada mapa.
 
----
-
 ## 🧑‍💻 Autores
 
 Projeto desenvolvido para disciplina de **Introdução à Programação** utilizando **Pygame**.
